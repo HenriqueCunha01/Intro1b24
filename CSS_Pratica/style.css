@@ -1,0 +1,36 @@
+body{
+background-color: #014b41;
+}
+.texto{
+font-size: 20px;/*Tamanho Da Fonte*/
+line-height: 35px;/* Altura Entre Linhas*/
+color: #6bc900; /*Cor Da Fonte*/
+font-style: italic; /*Estilo Da Fonte*/
+font-weight: bold; /*Largura Das Fontes*/
+text-align: right; /*Alinhamento De Texto*/
+}
+.texto A{
+color: #c9ee26;
+text-decoration: none;
+text-transform: uppercase;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.borda{
+width: 500px;
+border: 1px solid #00bdec;
+/*Tamanho Tipo Cor*/
+margin: 0 auto;
+margin-top: 40px;
+/*top, left, right, bottom*/
+padding: 20px;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.lista{
+list-style-position: inside;
+/*Posição Do Marcador inside/outside*/
+list-style-type: square;
+/*Disc, Circle, Square*/
+
+}
